@@ -1,0 +1,18 @@
+{
+  "name": "url-shortner",
+  "version": "1.0.0",
+  "description": "Shorten the URL",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Lavesh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "mongoose": "^8.2.2",
+    "nanoid": "^5.0.6",
+    "nodemon": "^3.1.0",
+    "shortid": "^2.2.16"
+  }
+}
